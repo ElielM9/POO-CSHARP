@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/bin/Debug/net7.0/03-AmbitoInterfaz
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/bin/Debug/net7.0/03-AmbitoInterfaz.deps.json
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/bin/Debug/net7.0/03-AmbitoInterfaz.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/bin/Debug/net7.0/03-AmbitoInterfaz.dll
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/bin/Debug/net7.0/03-AmbitoInterfaz.pdb
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.dll
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/refint/03-AmbitoInterfaz.dll
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.pdb
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/03-AmbitoInterfaz.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/POO/03-AmbitoInterfaz/obj/Debug/net7.0/ref/03-AmbitoInterfaz.dll
