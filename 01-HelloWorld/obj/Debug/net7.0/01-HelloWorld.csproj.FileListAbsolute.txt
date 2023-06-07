@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/bin/Debug/net7.0/01-HelloWorld
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/bin/Debug/net7.0/01-HelloWorld.deps.json
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/bin/Debug/net7.0/01-HelloWorld.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/bin/Debug/net7.0/01-HelloWorld.dll
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/bin/Debug/net7.0/01-HelloWorld.pdb
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.dll
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/refint/01-HelloWorld.dll
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.pdb
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/01-HelloWorld.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/POO/01-HelloWorld/obj/Debug/net7.0/ref/01-HelloWorld.dll

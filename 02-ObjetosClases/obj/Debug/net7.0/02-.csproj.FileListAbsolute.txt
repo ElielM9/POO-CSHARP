@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/POO/02-/bin/Debug/net7.0/02-
+/mnt/c/Users/eliel/Desktop/POO/02-/bin/Debug/net7.0/02-.deps.json
+/mnt/c/Users/eliel/Desktop/POO/02-/bin/Debug/net7.0/02-.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/POO/02-/bin/Debug/net7.0/02-.dll
+/mnt/c/Users/eliel/Desktop/POO/02-/bin/Debug/net7.0/02-.pdb
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.dll
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/refint/02-.dll
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.pdb
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/02-.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/POO/02-/obj/Debug/net7.0/ref/02-.dll
