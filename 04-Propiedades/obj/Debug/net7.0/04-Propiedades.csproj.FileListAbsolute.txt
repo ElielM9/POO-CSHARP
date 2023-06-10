@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/bin/Debug/net7.0/04-Propiedades
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/bin/Debug/net7.0/04-Propiedades.deps.json
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/bin/Debug/net7.0/04-Propiedades.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/bin/Debug/net7.0/04-Propiedades.dll
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/bin/Debug/net7.0/04-Propiedades.pdb
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.dll
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/refint/04-Propiedades.dll
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.pdb
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/04-Propiedades.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/POO/04-Propiedades/obj/Debug/net7.0/ref/04-Propiedades.dll
