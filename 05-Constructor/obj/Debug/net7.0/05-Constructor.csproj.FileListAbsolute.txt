@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/bin/Debug/net7.0/05-Constructor
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/bin/Debug/net7.0/05-Constructor.deps.json
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/bin/Debug/net7.0/05-Constructor.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/bin/Debug/net7.0/05-Constructor.dll
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/bin/Debug/net7.0/05-Constructor.pdb
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.dll
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/refint/05-Constructor.dll
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.pdb
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/05-Constructor.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/POO/05-Constructor/obj/Debug/net7.0/ref/05-Constructor.dll
