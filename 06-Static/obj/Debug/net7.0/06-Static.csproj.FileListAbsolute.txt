@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/POO/06-Static/bin/Debug/net7.0/06-Static
+/mnt/c/Users/eliel/Desktop/POO/06-Static/bin/Debug/net7.0/06-Static.deps.json
+/mnt/c/Users/eliel/Desktop/POO/06-Static/bin/Debug/net7.0/06-Static.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/POO/06-Static/bin/Debug/net7.0/06-Static.dll
+/mnt/c/Users/eliel/Desktop/POO/06-Static/bin/Debug/net7.0/06-Static.pdb
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.dll
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/refint/06-Static.dll
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.pdb
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/06-Static.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/POO/06-Static/obj/Debug/net7.0/ref/06-Static.dll
