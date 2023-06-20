@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Propiedades
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
