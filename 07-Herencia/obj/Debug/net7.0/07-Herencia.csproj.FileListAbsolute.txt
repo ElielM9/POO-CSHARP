@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/bin/Debug/net7.0/07-Herencia
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/bin/Debug/net7.0/07-Herencia.deps.json
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/bin/Debug/net7.0/07-Herencia.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/bin/Debug/net7.0/07-Herencia.dll
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/bin/Debug/net7.0/07-Herencia.pdb
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.dll
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/refint/07-Herencia.dll
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.pdb
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/07-Herencia.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/POO/07-Herencia/obj/Debug/net7.0/ref/07-Herencia.dll
